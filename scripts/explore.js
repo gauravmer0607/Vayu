@@ -209,3 +209,4 @@ const heroSection = document.getElementById('heroSection');
       placesContainer.appendChild(card);
     });
   }
+init();
